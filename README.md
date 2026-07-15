@@ -1,28 +1,53 @@
-# CodeAlpha-Stock-Portfolio-Tracker.py
-# 📈 CodeAlpha Stock Portfolio Tracker
+# 📈 CodeAlpha - Stock Portfolio Tracker
 
-This project is part of my CodeAlpha Internship.
+## 📌 Project Overview
+This project is a simple Stock Portfolio Tracker developed using Python. It allows users to add stocks, track their investments, and calculate the total value of their portfolio. This project demonstrates Python fundamentals such as dictionaries, loops, functions, and user input handling.
 
-## 📌 Description
-
-A Python-based application to manage stock investments. Users can add stocks, view their portfolio, and calculate total investment value.
-
-## 🚀 Features
-
-* Add stock details (name, quantity, price)
-* View portfolio summary
-* Calculate total investment value
+## ✨ Features
+- Add stocks to the portfolio
+- View stock holdings
+- Calculate total portfolio value
+- Simple and user-friendly interface
+- Beginner-friendly Python project
 
 ## 🛠️ Technologies Used
+- Python 3
+- VS Code
 
-* Python
+## 📂 Project Structure
+```
+Stock-Portfolio-Tracker.py
+README.md
+```
 
-## ▶️ How to Run
+## 🚀 How to Run
+1. Install Python 3.
+2. Clone or download this repository.
+3. Open the project in VS Code.
+4. Run the file:
+   ```bash
+   python Stock-Portfolio-Tracker.py
+   ```
+5. Follow the on-screen instructions to manage your portfolio.
 
-1. Install Python
-2. Run the file using:
-   python stock_portfolio.py
+## 💡 Sample Output
+```
+Enter Stock Name: TCS
+Enter Quantity: 5
+Enter Price per Share: 3500
+
+Portfolio Value: ₹17500
+```
+
+## 📚 Learning Outcomes
+- Python dictionaries
+- Loops and conditional statements
+- Functions
+- User input handling
+- Basic portfolio management logic
 
 ## 👩‍💻 Author
+**Sakshi Kadlag**
 
-Sakshi Kadlag
+## 📄 License
+This project is created for educational purposes as part of the CodeAlpha Python Programming Internship.
